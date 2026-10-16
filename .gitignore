@@ -1,0 +1,17 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cursor/
+.idea/
+.vscode/
+.env
+.env.*
+*.pem
+*.key
+*.log
+*.pkl
+*.npz
+results/
+benchmark_trajectories.json
